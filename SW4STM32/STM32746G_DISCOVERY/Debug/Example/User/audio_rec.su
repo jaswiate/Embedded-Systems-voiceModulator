@@ -1,0 +1,10 @@
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:165:6:Setup	24	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:243:6:Start_Audio	8	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:32:6:AudioRec_demo	8	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:39:6:AudioRec_vibrato	40	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:74:6:AudioRec_nightcore	8	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:103:6:AudioRec_reverb	88	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:143:6:AudioRec_distortion	8	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:295:6:BSP_AUDIO_IN_TransferComplete_CallBack	0	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:306:6:BSP_AUDIO_IN_HalfTransfer_CallBack	0	static
+C:/Users/jswia/STM32CubeIDE/workspace_1.16.0/BSP/Src/audio_rec.c:317:6:BSP_AUDIO_IN_Error_CallBack	8	static
